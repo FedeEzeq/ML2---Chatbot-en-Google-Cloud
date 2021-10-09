@@ -12,7 +12,7 @@ Text preprocessing and creation of a rule-based robot
 Colab: [GitHub Pages](https://pages.github.com/).
 
 ## 3 - Word Embeddings
-<img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=40% height=40%>
 Creating vectors with Gensim
 Colab: [GitHub Pages](https://pages.github.com/).
 
