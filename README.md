@@ -6,7 +6,16 @@ AI Specialization - UBA - Natural Language Processing
 Colab: [GitHub Pages](https://pages.github.com/).
 
 
-## 2 - Word to Vector
+## 2 - Text Preprocessing
 <img src="https://user-images.githubusercontent.com/77301813/136676513-f4a9dbf3-33d1-45d6-af60-bd61769eac8c.PNG" width=50% height=50%>
+Text preprocessing and creation of a rule-based robot
 Colab: [GitHub Pages](https://pages.github.com/).
+
+## 2 - Text Preprocessing
+<img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=50% height=50%>
+Text preprocessing and creation of a rule-based robot
+Colab: [GitHub Pages](https://pages.github.com/).
+
+![Portada 3](https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG)
+
 
