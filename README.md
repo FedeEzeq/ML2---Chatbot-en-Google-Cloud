@@ -11,11 +11,9 @@ Colab: [GitHub Pages](https://pages.github.com/).
 Text preprocessing and creation of a rule-based robot
 Colab: [GitHub Pages](https://pages.github.com/).
 
-## 2 - Text Preprocessing
+## 3 - Word Embeddings
 <img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=50% height=50%>
-Text preprocessing and creation of a rule-based robot
+Creating vectors with Gensim
 Colab: [GitHub Pages](https://pages.github.com/).
-
-![Portada 3](https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG)
 
 
