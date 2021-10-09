@@ -10,4 +10,3 @@ Colab: [GitHub Pages](https://pages.github.com/).
 <img src="https://user-images.githubusercontent.com/77301813/136676513-f4a9dbf3-33d1-45d6-af60-bd61769eac8c.PNG" width=50% height=50%>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-![Portada 2](https://user-images.githubusercontent.com/77301813/136676513-f4a9dbf3-33d1-45d6-af60-bd61769eac8c.PNG)
