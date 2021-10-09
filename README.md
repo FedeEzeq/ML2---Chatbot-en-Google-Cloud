@@ -1,5 +1,5 @@
-# NLP - Desafíos
+# NLP - Projects
 AI Specializaition - UBA - Natural Language Processing
 
-## NLP - Desafíos
-Primer Desafío
+## Word to Vector
+Primer
