@@ -12,7 +12,7 @@ Colab: [GitHub Pages](https://pages.github.com/).
 Text preprocessing and creation of a rule-based robot<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-## 3 - Vectors Creation
+## 3 - Creating Vectors
 <img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=45% height=45%>
 Creating vectors with Gensim<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
