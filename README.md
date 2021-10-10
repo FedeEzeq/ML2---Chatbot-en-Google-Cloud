@@ -33,5 +33,3 @@ Colab: [GitHub Pages](https://pages.github.com/).
 Question and answers (QA) Bot  <br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-![Portada 6](https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG)
-
