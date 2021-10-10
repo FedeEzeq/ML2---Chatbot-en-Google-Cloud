@@ -36,6 +36,6 @@ Colab: [GitHub Pages](https://pages.github.com/).
 <br/>
 
 # Contact Information
-Feel free to contact me by mail: fede.perusset@gmail.com
+Feel free to contact me by mail: fede.perusset@gmail.com <br/>
 Enjoy 😄!!
 
