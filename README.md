@@ -18,7 +18,7 @@ Creating vectors with Gensim<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
 ## 4 - Word Embeddings
-<img src="https://user-images.githubusercontent.com/77301813/136676766-e9cb5cbb-fb42-448b-9e85-e2d0ccfe6737.PNG" width=40% height=40%>
+<img src="https://user-images.githubusercontent.com/77301813/136676766-e9cb5cbb-fb42-448b-9e85-e2d0ccfe6737.PNG" width=35% height=35%>
 Creating vectors with Gensim<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
