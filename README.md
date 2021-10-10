@@ -22,3 +22,11 @@ Colab: [GitHub Pages](https://pages.github.com/).
 RNN and text prediction<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
+
+## 5 - Recurrent Neural Network
+<img src="https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG" width=35% height=35%>
+RNN and text prediction<br/>
+Colab: [GitHub Pages](https://pages.github.com/).
+
+![Portada 5](https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG)
+
