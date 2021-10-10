@@ -30,6 +30,6 @@ Colab: [GitHub Pages](https://pages.github.com/).
 
 ## 6 - Question and answers (QA) Bot
 <img src="https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG" width=40% height=40%>
-Sequence to Sequence and Question and answers (QA) Bot application<br/>
+Sequence to Sequence and Question and Answers (QA) Bot application<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
