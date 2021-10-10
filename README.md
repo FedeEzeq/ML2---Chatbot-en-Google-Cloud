@@ -22,6 +22,8 @@ Colab: [GitHub Pages](https://pages.github.com/).
 RNN and text prediction<br/>
 Colab: [Link](https://github.com/FedeEzeq/NLP/blob/main/Desafio_4.ipynb).
 
+This site was built using [GitHub Pages](https://pages.github.com/)
+
 
 
 ## 5 - Review Qualification
