@@ -28,9 +28,9 @@ Colab: [GitHub Pages](https://pages.github.com/).
 Using LSTM for user review qualification <br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-## 6 - Long Short Term Memory
+## 6 - Sequence to Sequence
 <img src="https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG" width=40% height=40%>
-Using LSTM for user review qualification <br/>
+Question and answers (QA) Bot  <br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
 ![Portada 6](https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG)
