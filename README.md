@@ -7,29 +7,29 @@ One-hot encoding, vector frequency, TFIDF matrix <br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
 
-## 2 - Text Preprocessing
+## 2 - Rule-based Robot
 <img src="https://user-images.githubusercontent.com/77301813/136676513-f4a9dbf3-33d1-45d6-af60-bd61769eac8c.PNG" width=50% height=50%>
 Text preprocessing and creation of a rule-based robot<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-## 3 - Word Embeddings
+## 3 - Vectors Creation
 <img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=45% height=45%>
 Creating vectors with Gensim<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-## 4 - Recurrent Neural Network
+## 4 - Text Prediction
 <img src="https://user-images.githubusercontent.com/77301813/136676766-e9cb5cbb-fb42-448b-9e85-e2d0ccfe6737.PNG" width=35% height=35%>
 RNN and text prediction<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
 
-## 5 - Long Short Term Memory
+## 5 - Review Qualification
 <img src="https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG" width=40% height=40%>
 Using LSTM for user review qualification <br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-## 6 - Sequence to Sequence
+## 6 - Question and answers (QA) Bot
 <img src="https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG" width=40% height=40%>
-Question and answers (QA) Bot  <br/>
+Sequence to Sequence and Question and answers (QA) Bot application<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
