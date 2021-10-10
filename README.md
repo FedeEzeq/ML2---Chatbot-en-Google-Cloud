@@ -20,10 +20,8 @@ Colab: [GitHub Pages](https://pages.github.com/).
 ## 4 - Text Prediction
 <img src="https://user-images.githubusercontent.com/77301813/136676766-e9cb5cbb-fb42-448b-9e85-e2d0ccfe6737.PNG" width=35% height=35%>
 RNN and text prediction<br/>
-Colab: [Link](https://github.com/FedeEzeq/NLP/blob/main/Desafio_4.ipynb).
-Colab: [Link](https://github.com/FedeEzeq/NLP/blob/main/Desafio_4.ipynb)
 
-Colab: [Link](https://github.com/FedeEzeq/NLP/blob/main/Desafio_4.ipynb/)
+Colab: [Text Prediction](https://github.com/FedeEzeq/NLP/blob/main/Desafio_4.ipynb/)
 
 
 
