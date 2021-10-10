@@ -25,8 +25,13 @@ Colab: [GitHub Pages](https://pages.github.com/).
 
 ## 5 - Long Short Term Memory
 <img src="https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG" width=40% height=40%>
-Using LSTM for user review qualification qu<br/>
+Using LSTM for user review qualification <br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
-![Portada 5](https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG)
+## 6 - Long Short Term Memory
+<img src="https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG" width=40% height=40%>
+Using LSTM for user review qualification <br/>
+Colab: [GitHub Pages](https://pages.github.com/).
+
+![Portada 6](https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG)
 
