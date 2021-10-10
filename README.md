@@ -34,6 +34,6 @@ Sequence to Sequence and Question and Answers (QA) Bot application<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
 
-#Contect Information
+# Contect Information
 Feel free to contacto me by mail: fede.perusset@gmail.com
 
