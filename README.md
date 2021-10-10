@@ -2,7 +2,7 @@
 AI Specialization - UBA - Natural Language Processing
 
 ## 1 - Word to Vector
-<img src="https://user-images.githubusercontent.com/77301813/136676196-148029d8-41cc-4061-8fc2-a53210542bb4.PNG" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/77301813/136676196-148029d8-41cc-4061-8fc2-a53210542bb4.PNG" width=45% height=45%>
 One-hot encoding, vector frequency, TFIDF matrix <br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
@@ -23,9 +23,9 @@ RNN and text prediction<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
 
-## 5 - Recurrent Neural Network
-<img src="https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG" width=35% height=35%>
-RNN and text prediction<br/>
+## 5 - Long Short Term Memory
+<img src="https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG" width=40% height=40%>
+Using LSTM for user review qualification qu<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
 
 ![Portada 5](https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG)
