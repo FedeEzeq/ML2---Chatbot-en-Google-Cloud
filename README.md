@@ -32,8 +32,10 @@ Colab: [GitHub Pages](https://pages.github.com/).
 <img src="https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG" width=40% height=40%>
 Sequence to Sequence and Question and Answers (QA) Bot application<br/>
 Colab: [GitHub Pages](https://pages.github.com/).
+<br/>
+<br/>
 
-
-# Contect Information
-Feel free to contacto me by mail: fede.perusset@gmail.com
+# Contact Information
+Feel free to contact me by mail: fede.perusset@gmail.com
+Enjoy 😄!!
 
