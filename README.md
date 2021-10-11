@@ -12,8 +12,7 @@ Colab: https://colab.research.google.com/drive/1Z91faKF82cAP3h9soWB5UF6RcX4iFuBM
 <img src="https://user-images.githubusercontent.com/77301813/136676513-f4a9dbf3-33d1-45d6-af60-bd61769eac8c.PNG" width=50% height=50%>
 Text preprocessing and creation of a rule-based robot<br/>
 Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desafio_1.ipynb)
-Colab: https://colab.research.google.com/drive/1Z91faKF82cAP3h9soWB5UF6RcX4iFuBM#scrollTo=xMcsfndWJjm_
-
+Colab:https://colab.research.google.com/drive/1sMfnnCTuiW3H5w9s02JrKcS7OfTTKB6V
 
 ## 3 - Creating Vectors
 <img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=45% height=45%>
