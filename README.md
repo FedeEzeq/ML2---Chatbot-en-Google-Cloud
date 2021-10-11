@@ -11,7 +11,7 @@ Colab: https://colab.research.google.com/drive/1Z91faKF82cAP3h9soWB5UF6RcX4iFuBM
 ## 2 - Rule-based Robot
 <img src="https://user-images.githubusercontent.com/77301813/136676513-f4a9dbf3-33d1-45d6-af60-bd61769eac8c.PNG" width=50% height=50%>
 Text preprocessing and creation of a rule-based robot<br/>
-Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desafio_1.ipynb)
+Link: [Bot para Centro de Clases](https://github.com/FedeEzeq/NLP/blob/main/Desaf%C3%ADo_2.ipynb)
 Colab:https://colab.research.google.com/drive/1sMfnnCTuiW3H5w9s02JrKcS7OfTTKB6V
 
 ## 3 - Creating Vectors
