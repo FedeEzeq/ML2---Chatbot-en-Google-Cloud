@@ -17,8 +17,8 @@ Colab:https://colab.research.google.com/drive/1sMfnnCTuiW3H5w9s02JrKcS7OfTTKB6V
 ## 3 - Creating Vectors (Falta, pedir a David. El del texto comunista)
 <img src="https://user-images.githubusercontent.com/77301813/136676611-7883a95c-c830-473d-b4ef-2e18feeef4a0.PNG" width=45% height=45%>
 Creating vectors with Gensim<br/>
-Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desafio_1.ipynb)
-Colab: https://colab.research.google.com/drive/1Z91faKF82cAP3h9soWB5UF6RcX4iFuBM#scrollTo=xMcsfndWJjm_
+Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desaf%C3%ADo_3.ipynb)
+Colab: https://colab.research.google.com/drive/1CJCncLoj9jv_WURykkbfqbXnL2A8cma4
 
 
 ## 4 - Text Prediction
