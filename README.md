@@ -46,5 +46,5 @@ Colab: https://colab.research.google.com/drive/1vRXjr3jYBVEEnXcL7aHAREYhyZ99dOd_
 
 # Contact Information
 Feel free to contact me by mail: fede.perusset@gmail.com <br/>
-Enjoy 😄!!
+Hope you like my projects 😄!!
 
