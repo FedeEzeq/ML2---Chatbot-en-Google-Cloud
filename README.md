@@ -39,9 +39,8 @@ Colab: https://colab.research.google.com/drive/1Z91faKF82cAP3h9soWB5UF6RcX4iFuBM
 ## 6 - Question and answers (QA) Bot
 <img src="https://user-images.githubusercontent.com/77301813/136676980-4b40b02f-c1f5-4944-9251-81f93d4cbaf4.PNG" width=40% height=40%>
 Sequence to Sequence and Question and Answers (QA) Bot application<br/>
-Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desafio_1.ipynb)
-Colab: https://colab.research.google.com/drive/1Z91faKF82cAP3h9soWB5UF6RcX4iFuBM#scrollTo=xMcsfndWJjm_
-
+Link: [QA Bot](https://github.com/FedeEzeq/NLP/blob/main/Desaf%C3%ADo_6.ipynb)
+Colab: https://colab.research.google.com/drive/1vRXjr3jYBVEEnXcL7aHAREYhyZ99dOd_?usp=sharing
 <br/>
 <br/>
 
