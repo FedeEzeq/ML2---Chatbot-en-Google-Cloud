@@ -32,7 +32,7 @@ Link: [Text Prediction](https://github.com/FedeEzeq/NLP/blob/main/Desafio_4.ipyn
 ## 5 - Review Qualification
 <img src="https://user-images.githubusercontent.com/77301813/136676915-0ad94456-a3c5-4310-9cac-2905233e0b1f.PNG" width=40% height=40%>
 Using LSTM for user review qualification <br/>
-Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desafio_1.ipynb)
+Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desaf%C3%ADo_5.ipynb)
 Colab: https://colab.research.google.com/drive/1-WF5a8iTsPbEXPahtY7Up2N4dMSpSxIR#scrollTo=N2OMmvbyT1t5
 
 
