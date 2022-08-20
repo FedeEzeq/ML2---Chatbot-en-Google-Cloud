@@ -1,7 +1,7 @@
-# NLP - Projects
-AI Specialization - UBA - Natural Language Processing
+# Chatbot en Google Cloud
+AI Specialization - UBA - Machine Learning II
 
-## 1 - Word to Vector
+## 1 - Resumen
 <img src="https://user-images.githubusercontent.com/77301813/136676196-148029d8-41cc-4061-8fc2-a53210542bb4.PNG" width=45% height=45%>
 One-hot encoding, vector frequency, TFIDF matrix <br/>
 Link: [Word2Vec](https://github.com/FedeEzeq/NLP/blob/main/Desafio_1.ipynb)
