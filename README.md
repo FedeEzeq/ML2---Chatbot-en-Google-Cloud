@@ -4,7 +4,7 @@
 
 
 ### Resumen
-Mirar la Presentación par auna buena idea del trabajo.
+Mirar la Presentación para tener una buena idea del trabajo. <br/>
 En la carpeta Bucket están los archivos oara el entrenamiento del modelo, las clases y el vocabulario utilizados. 
 
 # Contact Information
